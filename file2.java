@@ -1,4 +1,4 @@
 
 
-this is file2 :wq
+this is file2 
 
